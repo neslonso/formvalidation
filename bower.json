@@ -13,8 +13,8 @@
         "package.json"
     ],
     "main": [
-        "dist/css/bootstrapValidator.css",
-        "dist/js/bootstrapValidator.js"
+        "dist/css/formValidation.css",
+        "dist/js/formValidation.js"
     ],
     "license": "https://github.com/efaities/formvalidation/blob/master/LICENSE.txt",
     "keywords": ["jQuery", "plugin", "validate", "validator", "form", "Bootstrap"],
