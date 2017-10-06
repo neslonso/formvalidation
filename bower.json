@@ -1,0 +1,34 @@
+{
+    "name": "bootstrapvalidator",
+    "description": "The best jQuery plugin to validate form fields. Designed to use with Bootstrap 3",
+    "version": "0.8.1",
+    "ignore": [
+        "demo",
+        "screenshots",
+        "test",
+        "vendor",
+        "*.md",
+        "bootstrapValidator.jquery.json",
+        "Gruntfile.js",
+        "package.json"
+    ],
+    "main": [
+        "dist/css/bootstrapValidator.css",
+        "dist/js/bootstrapValidator.js"
+    ],
+    "license": "https://github.com/efaities/formvalidation/blob/master/LICENSE.txt",
+    "keywords": ["jQuery", "plugin", "validate", "validator", "form", "Bootstrap"],
+    "authors": [
+        { "name": "Nguyen Huu Phuoc", "email": "phuoc@huuphuoc.me"," homepage": "https://twitter.com/nghuuphuoc" },
+        { "name": "Parqueweb S.L.", "email": "parqueweb@parqueweb.com"," homepage": "http://parqueweb.com" }
+    ],
+    "homepage": "https://github.com/efaities/formvalidation",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/efaities/formvalidation.git"
+    },
+    "dependencies": {
+        "jquery": ">= 1.9.1",
+        "bootstrap": ">= 3.0.0"
+    }
+}
